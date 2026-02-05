@@ -1,0 +1,9 @@
+{
+  "weights": {
+    "skillMatch": 0.40,
+    "semanticSimilarity": 0.25,
+    "experienceAlignment": 0.20,
+    "projectRelevance": 0.15
+  },
+  "description": "Custom scoring algorithm weights for resume evaluation"
+}
